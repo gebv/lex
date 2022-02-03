@@ -7,8 +7,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/boltdb/bolt"
-	"github.com/xcdb/lex"
+	"github.com/gebv/lex"
+	bolt "go.etcd.io/bbolt"
 )
 
 type Movie struct {

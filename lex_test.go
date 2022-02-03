@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xcdb/lex"
+	"github.com/gebv/lex"
 
 	"github.com/stretchr/testify/assert"
 )
